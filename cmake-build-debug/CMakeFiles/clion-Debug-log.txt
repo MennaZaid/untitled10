@@ -1,13 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\ASUS\Desktop\untitled10\googletests-trial -B C:\Users\ASUS\Desktop\untitled10\googletests-trial\cmake-build-debug
-CMake Error: The current CMakeCache.txt directory C:/Users/ASUS/Desktop/untitled10/googletests-trial/cmake-build-debug/_deps/googletest-subbuild/CMakeCache.txt is different than the directory c:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
-
-CMake Error at C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FetchContent.cmake:1702 (message):
-  CMake step for googletest failed: 1
-Call Stack (most recent call first):
-  C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FetchContent.cmake:1854:EVAL:2 (__FetchContent_directPopulate)
-  C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FetchContent.cmake:1854 (cmake_language)
-  C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FetchContent.cmake:2081 (FetchContent_Populate)
-  CMakeLists.txt:29 (FetchContent_MakeAvailable)
-
-
--- Configuring incomplete, errors occurred!
+"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\ASUS\Desktop\untitled10 -B C:\Users\ASUS\Desktop\untitled10\cmake-build-debug
+-- Configuring done (1.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/ASUS/Desktop/untitled10/cmake-build-debug
