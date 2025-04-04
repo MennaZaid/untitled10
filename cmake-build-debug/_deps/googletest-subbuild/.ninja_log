@@ -1,0 +1,21 @@
+# ninja log v6
+2784	2858	7654129138432209	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	12f81d921325903a
+4	276	7654102465554202	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fce8855d309f56f1
+4	276	7654102465554202	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fce8855d309f56f1
+2539	2636	7654129136214616	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	1c20e1ade977efa9
+5	2538	7654129135216143	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	3824f2b6c9dc0524
+5	2538	7654129135216143	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	3824f2b6c9dc0524
+2539	2636	7654129136214616	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	1c20e1ade977efa9
+2636	2713	7654129136992164	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4129d365778ec512
+2636	2713	7654129136992164	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4129d365778ec512
+2713	2783	7654129137681877	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9a4851797c3e10b1
+3009	3161	7654129141449753	CMakeFiles/googletest-populate-complete	46a3a759ed7b536f
+2713	2783	7654129137681877	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9a4851797c3e10b1
+2784	2858	7654129138432209	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	12f81d921325903a
+2858	2935	7654129139194373	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a1fbe5bc87ababaf
+2858	2935	7654129139194373	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a1fbe5bc87ababaf
+2935	3009	7654129139929498	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	68853906795cc968
+2935	3009	7654129139929498	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	68853906795cc968
+3009	3161	7654129141449753	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	46a3a759ed7b536f
+3009	3161	7654129141449753	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	46a3a759ed7b536f
+3009	3161	7654129141449753	C:/Users/ASUS/Desktop/untitled10/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	46a3a759ed7b536f
